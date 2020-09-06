@@ -1,0 +1,33 @@
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\obj\x86\Debug\pvpShooter.csprojResolveAssemblyReference.cache
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\FacingLeft.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\FacingRight.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\pvpShooter.exe
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\pvpShooter.pdb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\obj\x86\Debug\pvpShooter.exe
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\obj\x86\Debug\pvpShooter.pdb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bakgrund.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\stuff.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bullet.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\font.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\blue.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\red.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\health.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\gunshot.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pigFacingLeft.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pigFacingRight.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\background.xnb
+C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\eran game music.xnb
+C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bigfont.xnb
+C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapONe.xnb
+C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\farmhouse.xnb
+C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapTWo.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\firstTower.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\sky.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\steel beam.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\rooftop.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapTHree.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\grenade.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\explosion.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\explosionSprite.xnb
+C:\Users\eshed\OneDrive\Documents\Visual Studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pack.xnb

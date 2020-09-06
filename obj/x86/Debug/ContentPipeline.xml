@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bakgrund.png</Source>
+      <Name>bakgrund</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bakgrund.xnb</Output>
+      <Time>2018-06-20T22:34:05.1124337+03:00</Time>
+    </Item>
+    <Item>
+      <Source>stuff.png</Source>
+      <Name>stuff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\stuff.xnb</Output>
+      <Time>2018-06-23T03:18:16.041536+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FacingLeft.png</Source>
+      <Name>FacingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\FacingLeft.xnb</Output>
+      <Time>2018-06-21T16:26:20.7959562+03:00</Time>
+    </Item>
+    <Item>
+      <Source>FacingRight.png</Source>
+      <Name>FacingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\FacingRight.xnb</Output>
+      <Time>2018-06-21T16:26:26.3193082+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2018-06-21T22:57:15.6395527+03:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2018-06-22T03:08:20.5136782+03:00</Time>
+    </Item>
+    <Item>
+      <Source>red.png</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\red.xnb</Output>
+      <Time>2018-06-22T03:08:31.2292433+03:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\health.xnb</Output>
+      <Time>2018-06-22T20:15:47.634067+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pigFacingLeft.png</Source>
+      <Name>pigFacingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pigFacingLeft.xnb</Output>
+      <Time>2018-06-22T21:17:17.2224003+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pigFacingRight.png</Source>
+      <Name>pigFacingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pigFacingRight.xnb</Output>
+      <Time>2018-06-22T21:17:17.2253901+03:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2018-06-23T03:04:10.4863565+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mapONe.png</Source>
+      <Name>mapONe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapONe.xnb</Output>
+      <Time>2018-06-24T03:31:32.415909+03:00</Time>
+    </Item>
+    <Item>
+      <Source>farmhouse.jpg</Source>
+      <Name>farmhouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\farmhouse.xnb</Output>
+      <Time>2018-06-24T03:38:59.6935945+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mapTWo.png</Source>
+      <Name>mapTWo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapTWo.xnb</Output>
+      <Time>2018-06-24T03:58:27.9136521+03:00</Time>
+    </Item>
+    <Item>
+      <Source>firstTower.png</Source>
+      <Name>firstTower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\firstTower.xnb</Output>
+      <Time>2018-06-25T00:29:27.8885046+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.jpg</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2018-06-25T00:50:07.4514365+03:00</Time>
+    </Item>
+    <Item>
+      <Source>steel beam.jpg</Source>
+      <Name>steel beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\steel beam.xnb</Output>
+      <Time>2018-06-25T00:35:15.2123625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>rooftop.png</Source>
+      <Name>rooftop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\rooftop.xnb</Output>
+      <Time>2018-06-25T00:55:00.8891148+03:00</Time>
+    </Item>
+    <Item>
+      <Source>mapTHree.png</Source>
+      <Name>mapTHree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\mapTHree.xnb</Output>
+      <Time>2018-06-25T01:53:59.1675421+03:00</Time>
+    </Item>
+    <Item>
+      <Source>grenade.png</Source>
+      <Name>grenade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\grenade.xnb</Output>
+      <Time>2018-09-09T02:25:56.8680093+03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2018-09-09T16:28:09.2894369+03:00</Time>
+    </Item>
+    <Item>
+      <Source>explosionSprite.png</Source>
+      <Name>explosionSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\explosionSprite.xnb</Output>
+      <Time>2018-09-09T16:33:25.1223235+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pack.png</Source>
+      <Name>pack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\pack.xnb</Output>
+      <Time>2018-09-09T20:06:23.9068036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2018-06-24T02:05:56.1190435+03:00</Time>
+    </Item>
+    <Item>
+      <Source>bigfont.spritefont</Source>
+      <Name>bigfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\bigfont.xnb</Output>
+      <Time>2018-06-24T02:46:00.6952407+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gunshot.wav</Source>
+      <Name>gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\gunshot.xnb</Output>
+      <Time>2018-06-22T20:56:01.8711944+03:00</Time>
+    </Item>
+    <Item>
+      <Source>eran game music.wav</Source>
+      <Name>eran game music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\eran game music.xnb</Output>
+      <Time>2018-06-23T17:20:47.1339035+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\eshed\onedrive\documents\visual studio 2010\Projects\pvpShooter\pvpShooter\pvpShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T19:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-08-21T06:45:43.8141884+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
